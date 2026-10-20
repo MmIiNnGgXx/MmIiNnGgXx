@@ -13,6 +13,9 @@
 | [data-monitor](https://github.com/MmIiNnGgXx/data-monitor) | 数据监控与告警：配置化采集任意数据源，变化即推送企业微信 / 钉钉 / 邮件 | 🟢 CI 全绿 |
 | [sheet-butler](https://github.com/MmIiNnGgXx/sheet-butler) | 表格管家：Excel/CSV 合并·拆分·对账·清洗·汇总，含网页版 | 🟢 105 项自检 |
 | [file-workshop](https://github.com/MmIiNnGgXx/file-workshop) | 文件工坊：批量重命名·归档·去重·替换·清单，先预览后动手 | 🟢 39 项自检 |
+| [browser-automation](https://github.com/MmIiNnGgXx/browser-automation) | 浏览器自动化：零依赖 CDP 驱动截图/取DOM/点击/导出PDF，手写 WebSocket | 🟢 可运行 |
+| [stack](https://github.com/MmIiNnGgXx/stack) | 叠塔：一指操作的精准堆叠小游戏（Canvas 2D） | 🟢 可直接玩 |
+| [art-style](https://github.com/MmIiNnGgXx/art-style) | 手绘风格实现：SVG 滤镜复现治愈系手绘，含教程 | 🟢 可运行演示 |
 | [tiny-step-town](https://github.com/MmIiNnGgXx/tiny-step-town) | 微习惯小镇：把真实小行动变成手绘小镇重建游戏（PWA，本地优先） | 🟡 原型 |
 | [after-work-recycling](https://github.com/MmIiNnGgXx/after-work-recycling) | 下班回收站：初入职场人的 60 秒下班仪式与匿名共鸣 | 🟡 原型 |
 
